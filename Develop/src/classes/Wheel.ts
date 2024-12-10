@@ -1,7 +1,6 @@
 import Truck from "./Truck";
 import Motorbike from "./Motorbike";
 import Car from "./Car";
-import Wheel from "./Wheel";
 
 // Wheel class that defines the properties of a wheel
 class Wheel {
