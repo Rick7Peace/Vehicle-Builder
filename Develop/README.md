@@ -1,7 +1,12 @@
 # 08 TypeScript and OOP: Vehicle Builder
 
 # Code Source
+
 Noela Deane & Ian Kessack helped with MotorBike.ts and Cli.ts.
+
+## Walkthrough video link
+
+https://drive.google.com/file/d/1WZfFGahSjJ41pX2y89k4VKCFhBMDylZa/view?usp=sharing
 
 ## Your Task
 
@@ -59,77 +64,78 @@ Moving forward, you will be provided with the `tsconfig.json` file. This is to r
 
 ## Helpful TypeScript Resources
 
-* [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+- [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
-* [Object types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [Object types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
-* [Everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+- [Everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
-* [More on functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+- [More on functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 ## Grading Requirements
 
 > **Note** If a Challenge assignment submission is marked as "0," it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include:
 >
-> * A repository that has no code
+> - A repository that has no code
 >
-> * A repository that includes a unique name but nothing else
+> - A repository that includes a unique name but nothing else
 >
-> * A repository that includes only a README file but nothing else
+> - A repository that includes only a README file but nothing else
 >
-> * A repository that only includes starter code
+> - A repository that only includes starter code
 
 This Challenge is graded based on the following criteria:
 
 ### Deliverables: 20%
 
-* A walkthrough video that demonstrates the functionality of the Vehicle Builder.
+- A walkthrough video that demonstrates the functionality of the Vehicle Builder.
 
-* Your GitHub repository containing your application code.
+- Your GitHub repository containing your application code.
 
 ### Walkthrough Video: 27%
 
-* The `README.md` file must include a link to the walkthrough video.
+- The `README.md` file must include a link to the walkthrough video.
 
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
+- The walkthrough video must demonstrate how a user would invoke the application from the command line.
 
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
+- The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
 
-* The walkthrough video must demonstrate all the prompts and functionality related to trucks and motorbikes working properly.
+- The walkthrough video must demonstrate all the prompts and functionality related to trucks and motorbikes working properly.
 
 ### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the preceding acceptance criteria plus the following:
+- Satisfies all of the preceding acceptance criteria plus the following:
 
-  * It uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
+  - It uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
-  * The application must have properly implemented `Truck` and `Motorbike` classes:
+  - The application must have properly implemented `Truck` and `Motorbike` classes:
 
-    * The user should be able to choose between a car, a truck, or a motorbike when creating a vehicle.
+    - The user should be able to choose between a car, a truck, or a motorbike when creating a vehicle.
 
-    * The `Truck` and `Motorbike` classes must prompt the user for details that the `Car` class doesn't.
+    - The `Truck` and `Motorbike` classes must prompt the user for details that the `Car` class doesn't.
 
-    * The `Truck` class must allow the user to implement an action that the `Car` and `Motorbike` classes cannot.
+    - The `Truck` class must allow the user to implement an action that the `Car` and `Motorbike` classes cannot.
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+- Repository has a unique name.
 
-* Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for file structure and naming conventions.
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-* Repository contains multiple descriptive commit messages.
+- Repository contains multiple descriptive commit messages.
 
-* Repository contains a high-quality readme with description and a link to a walkthrough video.
+- Repository contains a high-quality readme with description and a link to a walkthrough video.
 
 ## Review
 
 You are required to submit the following for review:
 
-* A walkthrough video that demonstrates the functionality of the application.
+- A walkthrough video that demonstrates the functionality of the application.
 
-* The URL of the GitHub repository, with a unique name and a README describing the project.
+- The URL of the GitHub repository, with a unique name and a README describing the project.
 
 ---
+
 &copy; 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
